@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: https://github.com/lihao2000B/fleet-infra.git
+  url: https://github.com/lihao2000B/flask-demo-kustomize.git
 
